@@ -1,2 +1,2 @@
-# hami-coursera-test
-coursera test repository
+# hami-Coursera-test
+Coursera test repository
